@@ -6,7 +6,7 @@ Me fascina ver el gran horizonte de la programación y no encontrar un final, es
 
 ## Que puedes encontrar aqui
 
-En este espacio podras encontrar mis proyectos, a los cuales les he dedicado tiempo para lograr la aprobación y satisfacción que brinda una aplicacion a un usuario cuando esta es prolija, amigable y util.
+En este espacio podras encontrar alguno de mis proyectos, a los cuales les he dedicado tiempo para lograr la aprobación y satisfacción que brinda una aplicacion a un usuario cuando esta es prolija, amigable y util.
 
 ## Puedes encontrarme en:
 
