@@ -10,8 +10,8 @@ En este espacio podras encontrar mis proyectos, a los cuales les he dedicado tie
 
 ## Puedes encontrarme en:
 
-- [LinkedIn] (https://www.linkedin.com/in/julian-linero-85a307207/)
-- [Twitter] (https://twitter.com/linerojulianan1)
+- [LinkedIn](https://www.linkedin.com/in/julian-linero-85a307207/)
+- [Twitter](https://twitter.com/linerojulianan1)
 - Correo: linero.julian.andres@gmail.com
 
 <!--
