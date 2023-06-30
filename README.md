@@ -1,6 +1,6 @@
 # HI! 👋 I am Julian Linero
 
-I am a passionate⚡junior web developer with experience in frontend and backend development. I am focused on learning and growing🌱in the world of technology, and I am exited to be part of challenging projects that allow me to develop my skills.
+### I am a passionate⚡junior web developer with experience in frontend and backend development. I am focused on learning and growing🌱in the world of technology, and I am exited to be part of challenging projects that allow me to develop my skills.
 
 ## Key Skills
 
@@ -16,7 +16,7 @@ I am a passionate⚡junior web developer with experience in frontend and backend
   <img width=9% src='https://github.com/JulianLIMe/JulianLIMe/assets/107429149/1fde64aa-82f3-4f9c-849d-6436c5ae5321'>
 </p>
 
-## Puedes encontrarme en:
+### If you are looking for a committed and enthusiastic developer, don't hesitate to contact me:
 
 - [LinkedIn](https://www.linkedin.com/in/julian-linero-85a307207/)
 - [Twitter](https://twitter.com/linerojulianan1)
