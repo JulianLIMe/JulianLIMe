@@ -9,6 +9,8 @@ Me fascina ver el gran horizonte de la programación y no encontrar un final, es
 En este espacio podras encontrar alguno de mis proyectos, a los cuales les he dedicado tiempo para lograr la aprobación y satisfacción que brinda una aplicacion a un usuario cuando esta es prolija, amigable y util.
 
 ## Puedes encontrarme en:
+![image](https://github.com/JulianLIMe/JulianLIMe/assets/107429149/4740fb21-aff9-4f15-9391-7d8287cd8a4e)
+
 
 - [LinkedIn](https://www.linkedin.com/in/julian-linero-85a307207/)
 - [Twitter](https://twitter.com/linerojulianan1)
